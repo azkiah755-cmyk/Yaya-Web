@@ -1,4 +1,17 @@
 body {
-    background-color: pink;
-
+    background:#E5E5E0;
+    color:#000000;
+    widht:100%;
+    font-family:sans-serif;
+    margin:0 auto;
 }
+
+.header{
+    widht:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#efc0cb;
+    color:#fff;
+}
+
